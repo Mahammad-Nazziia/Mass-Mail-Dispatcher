@@ -1,4 +1,4 @@
-# Mass-Mail-dispatcher
+# Mass-Mail-Dispatcher
 Introduction:
 The Mass Mail Dispatcher is a web application developed with React and Vite to simplify the process of sending emails to a list of recipients from a CSV file. Users can input sender details, attach a CSV file with recipient email addresses, and compose email messages. The application validates email addresses from the CSV file, distinguishing between valid and invalid ones.
 
